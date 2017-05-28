@@ -8,7 +8,7 @@ Enthusiastic Mechanical Engineering student with a strong academic track record 
 #### Coding Projects
 |Project|Description|
 |---|---|
-|[Train Spotter](https://github.com/whatsrupp/train-spotter)|Javascript App to find out what train your on and alert commuters of delays|
+|[Train Spotter](https://github.com/whatsrupp/train-spotter)|Javascript App to find out what train you're on and alert commuters of delays|
 |[Pictoon](https://github.com/whatsrupp/toon)|Clone of Instagram, using ruby on rails and amazon web server hosting |
 |[Noughty News](https://github.com/whatsrupp/noughty-news)|Single page Javascript app to collate tech news from the Guardian API|
 |[Iris Classifier](https://github.com/whatsrupp/iris-classification)|Simple machine learning app to classify iris leaves|

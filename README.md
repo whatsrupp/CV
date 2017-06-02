@@ -1,17 +1,19 @@
 ## Nick Rupp
 
-[Projects](#projects) | [Education](#education) | [Experience](#experience)
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Blog](https://medium.com/@nickrupp95) | [LinkedIn](https://www.linkedin.com/in/nick-rupp-16663912a/)
 
 Enthusiastic Mechanical Engineering student with a strong academic track record excelling in Design and Coding modules. Regional finalist in the contribution to business awards 2014 for work at Delphi Diesel Systems. Looking to use coding and engineering skills to tackle computer development problems from a grounded technical background.
 
 ## Projects
 #### Coding Projects
-|Project|Description|
-|---|---|
-|[Train Spotter](https://github.com/whatsrupp/train-spotter)|Javascript App to find out what train you're on and alert commuters of delays|
-|[Pictoon](https://github.com/whatsrupp/toon)|Clone of Instagram, using ruby on rails and amazon web server hosting |
-|[Noughty News](https://github.com/whatsrupp/noughty-news)|Single page Javascript app to collate tech news from the Guardian API|
-|[Iris Classifier](https://github.com/whatsrupp/iris-classification)|Simple machine learning app to classify iris leaves|
+|Logo|Project|Description|Technologies|
+|---|---|---|
+|![Loops and Cats Logo](pictures/LandC.png)|[Loops and Cats](https://github.com/whatsrupp/loops-and-cats)|An app which allows you to create music through the infinite looping of your live recordings |Node.js, Javascript, Web Audio API, Jasmine, Wavesurfer.js|
+|![Loops and Cats Logo](pictures/Train.png)|[Train Spotter](https://github.com/whatsrupp/train-spotter)|Javascript App to find out what train you're on and alert commuters of delays|Node.js, Heroku, Mocha, Zombie, Bootstrap|
+|![Loops and Cats Logo](pictures/Pictoon.png)|[Pictoon](https://github.com/whatsrupp/toon)|Clone of Instagram, using ruby on rails and amazon web server hosting |Rails, RSPEC, Postgresql, AWS server hosting|
+|![Loops and Cats Logo](pictures/Noughty.png)|[Noughty News](https://github.com/whatsrupp/noughty-news)|Single page Javascript app to collate tech news from the Guardian API|Written and Tested only using Vanilla Jasvascript|
+|![Loops and Cats Logo](pictures/Iris.png)|[Iris Classifier](https://github.com/whatsrupp/iris-classification)|Simple machine learning app to classify iris leaves|Python|
+
 
 #### Engineering Projects
 | Project   | Description |
@@ -33,14 +35,18 @@ I am heavily involved with a nationally competitive a cappella group, Aquapella,
 
 ## Education
 
-#### Makers Academy (February - June 2017)
+#### Makers Academy (March - June 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+The marketing team at Makers pitch it as 'Learning to code in 12 weeks' and I definitely learnt Javascript and Ruby to a good standard. However, having gone through the process, I think the main value I took from a bootcamp like Makers were the values and culture I picked up from it.
+It taught me how to be and pro-active and independent learner in order to deal with problems that initially seem unsolvable. It taught me how to collaborate and work in a group environment. Finally, it taught me how to be excited about work.
+
+As a summary, over the 3 months I was exposed to:
+
+|  Area  | Technologies |
+|---        |---         |
+|Production Languages| Ruby, Javascript, Node.js, Rails|
+|Testing Frameworks| Rspec, Capybara, Mocha, Jasmine, Zombie|
+|Approaches| Test Driven Development, Object Orientated Programming, SOLID prinicples, Extreme Programming(XP) values.|
 
 #### University of Bath (2014 - Ongoing)
 MEng (hons) Mechanical Engineering (5 Year Sandwich): Year 1 & 2 combined grade average of 70.3% (Full transcript available on request)

@@ -7,8 +7,8 @@ Enthusiastic Mechanical Engineering student with a strong academic track record 
 ## Projects
 #### Coding Projects
 |Logo|Project|Description|Technologies|
-|---|---|---|
-|![Loops and Cats Logo](pictures/LandC.png)|[Loops and Cats](https://github.com/whatsrupp/loops-and-cats)|An app which allows you to create music through the infinite looping of your live recordings |Node.js, Javascript, Web Audio API, Jasmine, Wavesurfer.js|
+|---|---|---|---|
+|![Loops and Cats Logo](pictures/LandC.png)|[Loops and Cats](https://github.com/whatsrupp/loops-and-cats)|An app which allows you to create music through the infinite looping of your live audio recordings |Node.js, Javascript, Web Audio API, Jasmine, Wavesurfer.js|
 |![Loops and Cats Logo](pictures/Train.png)|[Train Spotter](https://github.com/whatsrupp/train-spotter)|Javascript App to find out what train you're on and alert commuters of delays|Node.js, Heroku, Mocha, Zombie, Bootstrap|
 |![Loops and Cats Logo](pictures/Pictoon.png)|[Pictoon](https://github.com/whatsrupp/toon)|Clone of Instagram, using ruby on rails and amazon web server hosting |Rails, RSPEC, Postgresql, AWS server hosting|
 |![Loops and Cats Logo](pictures/Noughty.png)|[Noughty News](https://github.com/whatsrupp/noughty-news)|Single page Javascript app to collate tech news from the Guardian API|Written and Tested only using Vanilla Jasvascript|

@@ -38,7 +38,7 @@ I am heavily involved with a nationally competitive a cappella group, Aquapella,
 #### Makers Academy (March - June 2017)
 
 The marketing team at Makers pitch it as 'Learning to code in 12 weeks' and I definitely learnt Javascript and Ruby to a good standard. However, having gone through the process, I think the main value I took from a bootcamp like Makers were the values and culture I picked up from it.
-It taught me how to be and pro-active and independent learner in order to deal with problems that initially seem unsolvable. It taught me how to collaborate and work in a group environment. Finally, it taught me how to be excited about work.
+It taught me how to be a pro-active and independent learner in order to deal with problems that initially seem unsolvable. It taught me how to collaborate and work in a group environment. Finally, it taught me how to be excited about work.
 
 As a summary, over the 3 months I was exposed to:
 

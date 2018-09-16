@@ -7,6 +7,7 @@ Enthusiastic mechanical engineering graduate with a strong academic track record
 ## Projects
 
 **IINU** (July 2017 - Present)
+
 Having enjoyed working at IINU, a small startup, for the summer of 2017 as a front end developer, I stayed on during university working remotely to keep coding.
 Over time the responsibilities have excitingly been extended to:
 

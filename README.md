@@ -12,12 +12,12 @@ Over time the responsibilities have excitingly been extended to:
 
 - Managing the company's AWS infrastructure
 - Working actively on a C# based MongoDB backend
-- Talking to clients to keep the focus on user driven project development.
+- Talking to clients to keep the focus on user driven project development
 - Job interviews and hiring decisions
-- Helping the company plot the product roadmap.
+- Helping the company plot the product roadmap
 - Optimizing Front End Performance with Webpack
 - Managing a continuous integration pipeline
-- Co-developing and architecting a clean, scalable front-end React app with a heavy focus on testing.
+- Co-developing and architecting a clean, scalable front-end React app with a heavy focus on testing
 
 #### Coding Projects
 
@@ -101,4 +101,4 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 
 - **Music** : Cello (Grade 8 Distinction), Drums, Singing and Piano (Grade 8 Merit)
 - **Fitness** : Triathlon and Half Marathon
-- **Photography** : Night time exposures, Architecture and Portraits.
+- **Photography** : Night time exposures, Architecture and Portraits

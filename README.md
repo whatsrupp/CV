@@ -6,19 +6,22 @@ Enthusiastic mechanical engineering graduate with a strong academic track record
 
 ## Projects
 
-**IINU** (July 2017 - Present)
+**Jelly** (July 2017 - Present)
 
-Having enjoyed working at IINU, a small startup, for the summer of 2017 as a front end developer, I stayed on during university working remotely to keep coding.
-Over time the responsibilities have excitingly been extended to:
+Having enjoyed working at IINU (now called Jelly), a small startup to 'Make chefs' lives easier', for the summer of 2017 as a front end developer. I stayed on during university working part time remotely to keep coding. After university, I took on a full time role as the lead developer with responsibilities such as:
 
 - Managing the company's AWS infrastructure
-- Working actively on a C# based MongoDB backend
+- Working actively on a C# and then node based MongoDB backend
 - Talking to clients to keep the focus on user driven project development
 - Job interviews and hiring decisions
 - Helping the company plot the product roadmap
 - Optimizing Front End Performance with Webpack
-- Managing a continuous integration pipeline
+- Managing a continuous integration pipeline and an EC2 server.
 - Co-developing and architecting a clean, scalable front-end React app with a heavy focus on testing
+
+Today, chef's and their kitchens around London, from boutique to Michelin, are managing their dishes, ordering food and understanding if they're profitable quickly and without stress with the app!
+
+Tech Stack: React, GraphQL, Node, Mongodb, AWS Lambda, AWS EC2, NGINX.
 
 #### Coding Projects
 

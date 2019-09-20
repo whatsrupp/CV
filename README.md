@@ -1,6 +1,6 @@
 ## Nick Rupp
 
-[Projects](#projects) | [Education](#education) | [Experience](#additional-work-experience) | [Blog](https://medium.com/@nickrupp95) | [LinkedIn](https://www.linkedin.com/in/nick-rupp-16663912a/) | [Pictures of Things](https://www.instagram.com/nick.rupp/)
+[Projects](#projects) | [Education](#education) | [Experience](#additional-work-experience) | [Blog](https://medium.com/@nickrupp95) | [LinkedIn](https://www.linkedin.com/in/nick-rupp-16663912a/) | [Pictures of Things](https://www.instagram.com/nick.rupp/) | [Github](https://github.com/whatsrupp)
 
 I am an enthusiastic fullstack developer with a mechanical engineering background and a strong academic track record. I use practical engineering and coding skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
 

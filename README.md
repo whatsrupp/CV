@@ -4,7 +4,6 @@
 
 I am an enthusiastic fullstack developer with a mechanical engineering background and a strong academic track record. I use practical engineering and coding skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
 
----
 
 ## Projects
 
@@ -73,7 +72,6 @@ I find video production engaging due to the balance between creative and technic
 
 I used to be heavily involved with a competitive a cappella group, Aquapella, placing 2nd /3rd in two national competitions (VFUK, ICCA). I was responsible for the branding and marketing of our two Edinburgh Fringe Recommended Shows. This included the design of the poster, the design of the merchandise and liaising with the venue.
 
----
 
 ## Education
 
@@ -99,7 +97,6 @@ BEng (hons) Mechanical Engineering: 1st Class Honours.
 IB Diploma (2013): 43/45 Total with full marks in Higher level subjects of Maths, Physics and Design 2010-2012
 IGCSEs (2011) : 11 Subjects 9A\*, 1A, 1B
 
----
 ## Additional Work Experience
 
 **Premier Model Management** (Sept 2014 - August 2019)
@@ -111,7 +108,6 @@ Delphi’s Stonehouse branch is a high-volume production facility for precision 
 **Lotus Formula 1 Enstone** (1 week in July 2012)
 I worked on a team that responsible for a hydraulic transmission dynamometer designed to run endurance testing experiments of the F1 gearboxes and clutch. I was asked to construct a model which, when given the front wheel / engine RPM and the car's gear ratios, could work out which gear was being used as well as acceleration, velocity and distance at any point.
 
----
 
 ## Hobbies and Interests
 
@@ -120,6 +116,8 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 - **Fitness** : Triathlon and Half Marathon
 - **Photography** : Night time exposures, Architecture and Portraits
 
----
+## A Final Word
+
 If you've made it this far, thanks for reading!
+
 [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

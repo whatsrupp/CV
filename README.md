@@ -2,24 +2,26 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Blog](https://medium.com/@nickrupp95) | [LinkedIn](https://www.linkedin.com/in/nick-rupp-16663912a/)
 
-Enthusiastic mechanical engineering graduate with a strong academic track record, excelling in Design and Coding. I use practical coding and engineering skills to look at problems from a grounded technical perspective. I enjoy learning, responsibility and driven but fun work environments.
+I am an enthusiastic fullstack developer with a mechanical engineering background and a strong academic track record. I use practical coding and engineering skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
 
 ## Projects
 
 **Jelly** (July 2017 - Present)
 
-Having enjoyed working at IINU (now called Jelly), a small startup to 'Make chefs' lives easier', for the summer of 2017 as a front end developer. I stayed on during university working part time remotely to keep coding. After university, I took on a full time role as the lead developer with responsibilities such as:
+Having enjoyed working at IINU (now called Jelly), a small startup who 'Make chefs' lives easier', for the summer of 2017 as a front end developer. I stayed on during university working part time remotely to keep coding. After university, I took on a full time role as the lead developer with responsibilities such as:
 
 - Managing the company's AWS infrastructure
-- Working actively on a C# and then node based MongoDB backend
+- Maintaining a Nancy Based C# REST api
 - Talking to clients to keep the focus on user driven project development
 - Job interviews and hiring decisions
-- Helping the company plot the product roadmap
+- Helping the company plot a product roadmap
 - Optimizing Front End Performance with Webpack
-- Managing a continuous integration pipeline and an EC2 server.
+- Managing a continuous integration pipeline and an EC2 server
+- Containerising local development environments and minimising developer set up time
+- Writing a fully unit tested Graphql-Express node api.
 - Co-developing and architecting a clean, scalable front-end React app with a heavy focus on testing
 
-Today, chef's and their kitchens around London, from boutique to Michelin, are managing their dishes, ordering food and understanding if they're profitable quickly and without stress with the app!
+Today, chefs and their kitchens around London, from boutique to Michelin, are managing their dishes, ordering food and understanding if they're profitable quickly and without stress with the app!
 
 Tech Stack: React, GraphQL, Node, Mongodb, AWS Lambda, AWS EC2, NGINX.
 
@@ -39,7 +41,9 @@ Tech Stack: React, GraphQL, Node, Mongodb, AWS Lambda, AWS EC2, NGINX.
 
 ###### Will It Float?
 
-Design, construction and testing of a magnetic bearing controlled by an Arduino and used to levitate a steel ring. A [full write up](https://drive.google.com/open?id=1zS4_EALHm6-gAL2HXCHWJI7QMQ3Zky8M) is available here.
+A control sytems project involving the design, construction and testing of a magnetic bearing controlled by an Arduino. In other words, using code to levitate steel! 
+
+[A full pdf write up is available here](https://drive.google.com/open?id=1zS4_EALHm6-gAL2HXCHWJI7QMQ3Zky8M) is available here.
 
 ######
 
@@ -92,8 +96,8 @@ IGCSEs (2011) : 11 Subjects 9A\*, 1A, 1B
 
 ## Additional Work Experience
 
-**Premier Model Management** (Sept 2014 - Present)
-Involvement with the fashion industry was been a great opportunity to earn money whilst pursuing my university interests. The improvement of time-management skills, ability to deal with rejection and increased confidence with meeting new clients around Europe have been invaluable.
+**Premier Model Management** (Sept 2014 - August 2019)
+Involvement with the fashion industry was a great opportunity to earn money whilst pursuing my university interests. The improvement of time-management skills, ability to deal with rejection and increased confidence with meeting new clients around Europe have been invaluable.
 
 **Delphi Diesel Systems** (September 2013 - June 2015)
 Delphi’s Stonehouse branch is a high-volume production facility for precision fuel injectors, specialising in micron level finishing. As a manufacturing systems engineer I was given control of and improved a finishing lathe, the loader that fed the lathe and an end of line electrical test machine. The streamlining and correction of the electrical test process saved Delphi £100,000+ per annum and meant I reached the Year in Industry Contribution to Business awards regional finals.

@@ -57,20 +57,10 @@ A control sytems project involving the design, construction and testing of a mag
 | [Re-Entry Simulation](https://github.com/whatsrupp/matlab-shuttle-model)      | Analysis programme of thermal transfer in a space shuttle tile under various situations. |
 | Drone Racing                                                                  | Design proposal of creative expansion options for the fast-emerging e-sport.             |
 | Jeans Folding Machine                                                         | Generation of detailed manufacturing process to process jeans before shipment.           |
-| Ping Pong Ball Launcher                                                       | Design and build a functioning ping-pong ball launcher to meet challenge requirements.   |
-| Dragster                                                                      | Design and build a spring-powered racing dragster to race against other student groups.  |
-| Gearbox Design                                                                | Designed and hand drew the technical drawings of a clash gearbox for a boat.             |
-| Washing Machine                                                               | Proposed the solution of a pedal powered washing unit for third world application.       |
-
-#### Extra Projects
-
-###### Video Editing and Production
-
-I find video production engaging due to the balance between creative and technical thought. I have spent an extensive amount of time writing, filming and editing videos on both a commercial freelance basis or for personal interest. I was involved with Bath University’s media society, filming promotional material or creating short films.
-
-###### A Cappella Marketing
-
-I used to be heavily involved with a competitive a cappella group, Aquapella, placing 2nd /3rd in two national competitions (VFUK, ICCA). I was responsible for the branding and marketing of our two Edinburgh Fringe Recommended Shows. This included the design of the poster, the design of the merchandise and liaising with the venue.
+| Ping Pong Ball Launcher                                                       | Design and build of a functioning ping-pong ball launcher to meet challenge requirements.   |
+| Dragster                                                                      | Design and build of a spring-powered racing dragster to race against other student groups.  |
+| Gearbox Design                                                                | Design and creation of the technical drawings of a clash gearbox for a boat.             |
+| Washing Machine                                                               | Design propoal of a pedal powered washing unit      |
 
 
 ## Education
@@ -78,15 +68,7 @@ I used to be heavily involved with a competitive a cappella group, Aquapella, pl
 #### Makers Academy (March - June 2017)
 
 The marketing team at Makers pitch it as 'Learning to code in 12 weeks' and I definitely learnt Javascript and Ruby to a good standard. However, having gone through the process, I think the main value I took from a bootcamp like Makers were the values and culture I picked up from it.
-It taught me how to be a pro-active and independent learner in order to deal with problems that initially seem unsolvable. It taught me how to collaborate and work in a group environment. Finally, it taught me how to be excited about work.
-
-As a summary, over the 3 months I was exposed to:
-
-| Area                 | Technologies                                                                                              |
-| -------------------- | --------------------------------------------------------------------------------------------------------- |
-| Production Languages | Ruby, Javascript, Node.js, Rails                                                                          |
-| Testing Frameworks   | Rspec, Capybara, Mocha, Jasmine, Zombie                                                                   |
-| Approaches           | Test Driven Development, Object Orientated Programming, SOLID prinicples, Extreme Programming(XP) values. |
+It taught me how to be a pro-active and independent learner in order to deal with problems that initially seem unsolvable. It taught me how to collaborate and work with a team of developers. Finally, it taught me about how well written code and testing can enable ideas to scale across a team.
 
 #### University of Bath (2014 - 2018)
 
@@ -113,11 +95,12 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 
 - **Helping people code** : Codebar and One on One mentorship
 - **Music** : Cello (Grade 8 Distinction), Drums, Singing and Piano (Grade 8 Merit)
-- **Fitness** : Triathlon and Half Marathon
+- **Fitness** : Triathlons and Half Marathons
 - **Photography** : Night time exposures, Architecture and Portraits
+- **Video Production** : Personal and freelance video production and animation
+- **Graphic Deisgn** : Odd Photoshops, Posters and Logos
 
 ## A Final Word
+If you're reading a pdf copy of this CV, it was generated from a markdown file under version control. If you're interested in seeing how the CV has changed over time, then the original is available at https://github.com/whatsrupp/CV
 
 If you've made it this far, thanks for reading!
-
-[Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

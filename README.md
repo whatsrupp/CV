@@ -22,7 +22,7 @@ Having enjoyed working at IINU (now called Jelly), a small startup who 'Make che
 - Writing a fully unit tested Graphql-Express node api.
 - Co-developing and architecting a clean, scalable front-end React app with a heavy focus on testing
 
-Today, chefs and their kitchens around London, from boutique to Michelin, are managing their dishes, ordering food and understanding if they're profitable quickly and without stress with the app!
+Today, hundreds of chefs and their kitchens around London, from boutique to Michelin, are managing their dishes, ordering food and understanding if they're profitable quickly and without stress with the app!
 
 Tech Stack: React, GraphQL, Node, Nancy, Mongodb, AWS Lambda, AWS EC2, NGINX.
 
@@ -34,33 +34,19 @@ Tech Stack: React, GraphQL, Node, Nancy, Mongodb, AWS Lambda, AWS EC2, NGINX.
 | ![Loops and Cats Logo](https://i.imgur.com/vRvVByD.png)   | [Loops and Cats](https://github.com/whatsrupp/loops-and-cats)       | An app which allows you to create music through the infinite looping of your live audio recordings | Node.js, Javascript, Web Audio API, Jasmine, Wavesurfer.js |
 | ![Train Spotter Logo](https://i.imgur.com/tMfedfY.png)   | [Train Spotter](https://github.com/whatsrupp/train-spotter)         | Javascript App to find out what train you're on and alert commuters of delays                      | Node.js, Heroku, Mocha, Zombie, Bootstrap                  |
 | ![Pictoon Logo](https://i.imgur.com/2ex46Yo.png) | [Pictoon](https://github.com/whatsrupp/toon)                        | Clone of Instagram, using ruby on rails and amazon web server hosting                              | Rails, RSPEC, Postgresql, AWS server hosting               |
-| ![Noutghty News Logo](https://i.imgur.com/pxaSezg.png) | [Noughty News](https://github.com/whatsrupp/noughty-news)           | Single page Javascript app to collate tech news from the Guardian API                              | Written and Tested only using Vanilla Jasvascript          |
 | ![Iris Classifier Logo](https://i.imgur.com/NbBCa4b.png)    | [Iris Classifier](https://github.com/whatsrupp/iris-classification) | Simple machine learning app to classify iris leaves                                                | Python                                                     |
 
 #### Engineering Projects
 
-##### Final Year Project
-
-###### Will It Float?
-
-A control sytems project involving the design, construction and testing of a magnetic bearing controlled by an Arduino. In other words, using code to levitate steel! 
-
-[A full pdf write up is available here](https://drive.google.com/open?id=1zS4_EALHm6-gAL2HXCHWJI7QMQ3Zky8M).
-
-######
-
-##### University Projects
-
 | Project                                                                       | Description                                                                              |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+[Will It Float?](https://drive.google.com/open?id=1zS4_EALHm6-gAL2HXCHWJI7QMQ3Zky8M) | Dissertation: using c++ code to levitate steel with an Arduino and a Magnetic Bearing   |
 | [Projectile Simulation](https://github.com/whatsrupp/matlab-projectile-model) | Programme to simulate a rocket’s flight using a variety of numerical solving concepts.   |
 | [Re-Entry Simulation](https://github.com/whatsrupp/matlab-shuttle-model)      | Analysis programme of thermal transfer in a space shuttle tile under various situations. |
 | Drone Racing                                                                  | Design proposal of creative expansion options for the fast-emerging e-sport.             |
 | Jeans Folding Machine                                                         | Generation of detailed manufacturing process to process jeans before shipment.           |
 | Ping Pong Ball Launcher                                                       | Design and build of a functioning ping-pong ball launcher to meet challenge requirements.   |
-| Dragster                                                                      | Design and build of a spring-powered racing dragster to race against other student groups.  |
 | Gearbox Design                                                                | Design and creation of the technical drawings of a clash gearbox for a boat.             |
-| Washing Machine                                                               | Design propoal of a pedal powered washing unit      |
 
 
 ## Education
@@ -93,14 +79,13 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 
 ## Hobbies and Interests
 
-- **Helping people code** : Codebar and One on One mentorship
 - **Music** : Cello (Grade 8 Distinction), Drums, Singing and Piano (Grade 8 Merit)
-- **Fitness** : Triathlons and Half Marathons
 - **Photography** : Night time exposures, Architecture and Portraits
+- **Helping people code** : Codebar and One on One mentorship
 - **Video Production** : Personal and freelance video production and animation
-- **Graphic Deisgn** : Odd Photoshops, Posters and Logos
+- **Graphic Deisgn** : Photoshops, Posters and Logos
 
 ## A Final Word
-If you're reading a pdf copy of this CV, it was generated from a markdown file under version control. If you're interested in seeing how the CV has changed over time, then the original is available at https://github.com/whatsrupp/CV
+If you're reading a pdf copy of this CV, it was generated from a markdown file under version control. If you're interested in seeing how the CV has changed over time then the original is available at https://github.com/whatsrupp/CV
 
 If you've made it this far, thanks for reading!

@@ -83,7 +83,7 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 - **Photography** : Night time exposures, Architecture and Portraits
 - **Helping people code** : Codebar and One on One mentorship
 - **Video Production** : Personal and freelance video production and animation
-- **Graphic Deisgn** : Photoshops, Posters and Logos
+- **Graphic Design** : Photoshops, Posters and Logos
 
 ## A Final Word
 If you're reading a pdf copy of this CV, it was generated from a markdown file under version control. If you're interested in seeing how the CV has changed over time then the original is available at https://github.com/whatsrupp/CV

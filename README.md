@@ -2,12 +2,40 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#additional-work-experience) | [Blog](https://medium.com/@nickrupp95) | [LinkedIn](https://www.linkedin.com/in/nick-rupp-16663912a/) | [Pictures of Things](https://www.instagram.com/nick.rupp/) | [Github](https://github.com/whatsrupp)
 
-I am an enthusiastic fullstack developer with a mechanical engineering background and a strong academic track record. I use practical engineering and coding skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
+I am an enthusiastic fullstack developer with a mechanical engineering background. I use practical engineering and coding skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
 
 
 ## Projects
 
-**Jelly** (July 2017 - Present)
+**LandTech** (November 2019 - Present)
+
+I stumbled accross LandTech because it looked fun (The hiring video had the CEO pretending to wind people up by mopping the floor) And fun it is. I'm currently helping pipe government land data onto maps to help people find places to build things.
+
+I've had two roles here so far. Both have been very heavily back end, data and infrastructure based which has been a fantastic learning experience.
+
+_Fullstack Data Engineer_
+
+- Coordinating and improving the scheduling of our 360+ web scrapers.
+- Simplify our core data pipeline that processes data on UK based planning applications from webscrapers
+
+_Fullstack Business and Operations Engineer_
+
+I was allowed to join this very small team as I was interested in what goes on in the inner workings of a business that's going through growth.
+
+I set up our full internal data pipeline. Daily, it ingests business critical sales, financial and user data into a warehouse. Once in place, I set up DBT to transform and enrich the data so that they can be used in our AWS Quicksight dashboards used by the C-suite. 
+![Pipeline](https://imgur.com/ngRyOEQ.png)
+
+_Other_
+Hosting a weekly company wide call with 100+ people in it.
+Starting a culture of giving short non-work related talks (Zip Talks) to the company.
+
+If you want a less formal flavour of what I got up to in my first year at LandTech I wrote a [blog post](https://engineering.land.tech/a-year-later/) about it!
+
+Tech Stack: Vue, GraphQL, Node, Python, Mongodb, Postgres, DBT, Cloudformation (CDK), Docker, Kubernetes, Bash, Bats, Cypress, CircleCi, AWS EC2, NGINX.
+(We maintain a more detailed Tech Stack [here](https://engineering.land.tech/radar/))
+
+
+**Jelly** (July 2017 - November 2019)
 
 Having enjoyed working at IINU (now called Jelly), a small startup who 'Make chefs' lives easier', for the summer of 2017 as a front end developer. I stayed on during university working part time remotely to keep coding. After university, I took on a full time role as the lead developer with responsibilities such as:
 

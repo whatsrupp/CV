@@ -62,10 +62,12 @@ Tech Stack: React, GraphQL, Node, Nancy, Mongodb, AWS Lambda, AWS EC2, NGINX.
 | ![HumanId](https://i.imgur.com/v3HafG1.png) | [HumanId](https://github.com/whatsrupp/humanid)         | An app for use by disaster recovery teams which enables the quick identification of loved ones by creating a link between the location of the victim and collected physical evidence.                               | React Native and SQL Lite        |
 | ![Loops and Cats Logo](https://i.imgur.com/vRvVByD.png)   | [Loops and Cats](https://www.nickrupp.co.uk/loops)       | An app which allows you to create music through the infinite looping of your live audio recordings. | React, Typescript, Web Audio API, Wavesurfer.js, React Test Library |            |
 | ![Iris Classifier Logo](https://i.imgur.com/NbBCa4b.png)    | [Iris Classifier](https://github.com/whatsrupp/iris-classification) | Simple machine learning app to classify iris leaves.                                                | Python                                                     |
-| |[Personal Website]("https://www.nickrupp.co.uk/)|An interactive project ballpit, an annoying soundboard, an SVG generator and a few other things are on show here. | Typescript, React, Google Analytics, CircleCI, Cloudformation, S3 Backed Cloudfront, Bash |
-||[Play Thru](https://playthru.xyz/)| Allows you to discover songs that are appropriate for mixing together during a DJ set using the spotify api and harmonic mixing concepts. | Graphql, Spotify, Node.js, Apollo Server.
+|![Personal Website Logo](https://i.imgur.com/c8vNm1G.png) |[Personal Website]("https://www.nickrupp.co.uk/)|An interactive project ballpit, an annoying soundboard, an SVG generator and a few other things are on show here. | Typescript, React, Google Analytics, CircleCI, Cloudformation, S3 Backed Cloudfront, Bash |
+|![Play Thru Logo](https://i.imgur.com/S3TD6WS.png)|[Play Thru](https://playthru.xyz/)| Allows you to discover songs that are appropriate for mixing together during a DJ set using the spotify api and harmonic mixing concepts. | Graphql, Spotify, Node.js, Apollo Server.
+
 
 #### Engineering Projects
+
 
 | Project                                                                       | Description                                                                              |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |

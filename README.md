@@ -108,7 +108,7 @@ I worked on a team that responsible for a hydraulic transmission dynamometer des
 
 ## Hobbies and Interests
 
-- **Music** : Cello (Grade 8 Distinction), Drums, Singing and Piano (Grade 8 Merit)
+- **Music** : Piano (8), Cello (8), Drums, Singing, DJ, Production
 - **Photography** : Night time exposures, Architecture and Portraits
 - **Helping people code** : Codebar and One on One mentorship
 - **Video Production** : Personal and freelance video production and animation

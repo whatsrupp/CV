@@ -4,7 +4,6 @@
 
 I am an enthusiastic fullstack developer with a mechanical engineering background. I use practical engineering and coding skills to look at problems from a grounded technical and user-led perspective. I enjoy learning, responsibility and driven but fun work environments.
 
-
 ## Projects
 
 **LandTech** (November 2019 - Present)
@@ -22,8 +21,10 @@ _Fullstack Business and Operations Engineer_
 
 I was allowed to join this very small team as I was interested in what goes on in the inner workings of a business that's going through growth.
 
-I set up our full internal data pipeline. Daily, it ingests business critical sales, financial and user data into a warehouse. Once in place, I set up DBT to transform and enrich the data so that they can be used in our AWS Quicksight dashboards used by the C-suite. 
-![Pipeline](https://imgur.com/ngRyOEQ.png)
+I set up our full internal business data pipeline. Daily, it ingests business critical sales, financial and user data into a warehouse via scraping, apis or remote file downloads. Once in place, I set up DBT to transform and enrich the data so that they can be used in our AWS Quicksight dashboards used by the C-suite. 
+![Pipeline](https://imgur.com/ngRyOEQ.png).
+
+In more of an SRE project, I simplified our company user sessions management by unifying our login and session persistance across our 5 different projects into a single session concept. All company traffic now routes through a centralised gateway which enriches both internal and external requests with user metadata which means teams don't need to worry about logins, accounts and sessions and can focus on writing features.
 
 _Other_
 Hosting a weekly company wide call with 100+ people in it.
@@ -31,8 +32,8 @@ Starting a culture of giving short non-work related talks (Zip Talks) to the com
 
 If you want a less formal flavour of what I got up to in my first year at LandTech I wrote a [blog post](https://engineering.land.tech/a-year-later/) about it!
 
-Tech Stack: Vue, GraphQL, Node, Python, Mongodb, Postgres, DBT, Cloudformation (CDK), Docker, Kubernetes, Bash, Bats, Cypress, CircleCi, AWS EC2, NGINX.
-(We maintain a more detailed Tech Stack [here](https://engineering.land.tech/radar/))
+Tech Stack: Vue, GraphQL, Node, Python, Mongodb, Postgres, DBT, Cloudformation (CDK), Docker, Kubernetes, Bash, Bats, Cypress, CircleCi, AWS EC2, NGINX, Github Actions.
+(For more info, we maintain a more detailed list of our Tech Stack [here](https://engineering.land.tech/radar/))
 
 
 **Jelly** (July 2017 - November 2019)
@@ -59,10 +60,10 @@ Tech Stack: React, GraphQL, Node, Nancy, Mongodb, AWS Lambda, AWS EC2, NGINX.
 | Logo                                         | Project                                                             | Description                                                                                        | Technologies                                               |
 | -------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | ![HumanId](https://i.imgur.com/v3HafG1.png) | [HumanId](https://github.com/whatsrupp/humanid)         | An app for use by disaster recovery teams which enables the quick identification of loved ones by creating a link between the location of the victim and collected physical evidence.                               | React Native and SQL Lite        |
-| ![Loops and Cats Logo](https://i.imgur.com/vRvVByD.png)   | [Loops and Cats](https://github.com/whatsrupp/loops-and-cats)       | An app which allows you to create music through the infinite looping of your live audio recordings | Node.js, Javascript, Web Audio API, Jasmine, Wavesurfer.js |
-| ![Train Spotter Logo](https://i.imgur.com/tMfedfY.png)   | [Train Spotter](https://github.com/whatsrupp/train-spotter)         | Javascript App to find out what train you're on and alert commuters of delays                      | Node.js, Heroku, Mocha, Zombie, Bootstrap                  |
-| ![Pictoon Logo](https://i.imgur.com/2ex46Yo.png) | [Pictoon](https://github.com/whatsrupp/toon)                        | Clone of Instagram, using ruby on rails and amazon web server hosting                              | Rails, RSPEC, Postgresql, AWS server hosting               |
-| ![Iris Classifier Logo](https://i.imgur.com/NbBCa4b.png)    | [Iris Classifier](https://github.com/whatsrupp/iris-classification) | Simple machine learning app to classify iris leaves                                                | Python                                                     |
+| ![Loops and Cats Logo](https://i.imgur.com/vRvVByD.png)   | [Loops and Cats](https://www.nickrupp.co.uk/loops)       | An app which allows you to create music through the infinite looping of your live audio recordings. | React, Typescript, Web Audio API, Wavesurfer.js, React Test Library |            |
+| ![Iris Classifier Logo](https://i.imgur.com/NbBCa4b.png)    | [Iris Classifier](https://github.com/whatsrupp/iris-classification) | Simple machine learning app to classify iris leaves.                                                | Python                                                     |
+| |[Personal Website]("https://www.nickrupp.co.uk/)|An interactive project ballpit, an annoying soundboard, an SVG generator and a few other things are on show here. | Typescript, React, Google Analytics, CircleCI, Cloudformation, S3 Backed Cloudfront, Bash |
+||[Play Thru](https://playthru.xyz/)| Allows you to discover songs that are appropriate for mixing together during a DJ set using the spotify api and harmonic mixing concepts. | Graphql, Spotify, Node.js, Apollo Server.
 
 #### Engineering Projects
 
